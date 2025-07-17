@@ -1,4 +1,7 @@
-No drama. Just code.
+Don’t expect magic here — just code, consistency, and curiosity.
 
-I’m Shinas — I build full-stack stuff with MERN  
-and chase progress every single day.
+I’m Shinas N.  
+>I build things with JavaScript, break things to learn faster,  
+>and believe every bug teaches something.
+
+Currently building, learning, and staying hungry.
